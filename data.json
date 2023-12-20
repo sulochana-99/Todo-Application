@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "todos": [
+    {
+      "userId": 1,
+      "title": "task has  to  complted by tomarrow",
+      "isCompleted": false,
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "title": "task has  to  complted by tomarrow",
+      "isCompleted": false,
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "title": "task has  to  complted by tomarrow",
+      "isCompleted": false,
+      "id": 5
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
